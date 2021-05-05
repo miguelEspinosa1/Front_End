@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Miguel Espinosa
 
 You can use the [editor on GitHub](https://github.com/miguelEspinosa1/Front_end/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
